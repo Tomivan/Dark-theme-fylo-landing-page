@@ -1,0 +1,15 @@
+.card {
+    height: 40vh;
+    width: 80vw;
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: #22293B;
+    border-radius: 2%;
+}
+.image {
+    height: 7vh;
+    border-radius: 50%;
+}
+.board {
+    display: flex
+}

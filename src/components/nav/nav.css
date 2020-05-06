@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    margin-top: 10%;
+}
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+}
+li{
+    margin-left: 5vw;
+}
+.logo{
+    width: 30vw;
+    margin-left: 5%;
+}
