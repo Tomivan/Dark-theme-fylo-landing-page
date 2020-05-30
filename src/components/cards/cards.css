@@ -7,9 +7,15 @@
     border-radius: 2%;
 }
 .image {
-    height: 7vh;
+    height: 10vh;
     border-radius: 50%;
+    margin-left: 10%;
+
 }
 .board {
-    display: flex
+    display: flex;
+    margin-top: 10%;
+}
+.paragraph p {
+    text-align: left;
 }

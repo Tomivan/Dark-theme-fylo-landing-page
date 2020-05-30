@@ -1,0 +1,19 @@
+.access {
+    height: 60vh;
+    width: 85vw;
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: #22293B;
+    border-radius: 2%;
+    padding: .5em;
+}
+.access button {
+    width: 70vw;
+    margin-top: 10%;
+}
+.access input {
+    width: 70vw;
+    height: 10vh;
+    margin-top: 10%;
+    margin-left: 10%;
+}

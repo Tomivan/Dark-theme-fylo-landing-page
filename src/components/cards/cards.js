@@ -8,8 +8,10 @@ function Cards() {
               become a well-oiled collaboration machine.</p>
            <div className="board">
              <img src={require('../../assets/images/profile-1.jpg')} alt="" className="image"/>
-             <p>Satish Patel</p>
-             <p>Founder & CEO, Huddle</p>
+             <div className="paragraph">
+                <p>Satish Patel</p>
+                <p>Founder & CEO, Huddle</p>
+             </div>
            </div>
          </div>
          <div className="card">
@@ -17,8 +19,10 @@ function Cards() {
               become a well-oiled collaboration machine.</p>
            <div className="board">
              <img src={require('../../assets/images/profile-2.jpg')} alt="" className="image"/>
+             <div className="paragraph">
              <p>Bruce McKenzie</p>
              <p>Founder & CEO, Huddle</p>
+             </div>
            </div>
          </div>
          <div className="card">
@@ -26,8 +30,10 @@ function Cards() {
               become a well-oiled collaboration machine.</p>
            <div className="board">
              <img src={require('../../assets/images/profile-3.jpg')} alt="" className="image"/>
+             <div className="paragraph">
              <p>Iva Boyd</p>
              <p>Founder & CEO, Huddle</p>
+             </div>
            </div>
          </div>
        </div>

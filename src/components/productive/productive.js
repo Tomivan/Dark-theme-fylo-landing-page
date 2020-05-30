@@ -1,5 +1,6 @@
 import React from 'react';
-import './productive.css'
+import { Link } from 'react-router-dom';
+import './productive.css';
 function Productive() {
     return(
     <>
@@ -10,7 +11,7 @@ function Productive() {
             storage needs.</p>
          <p>Securely share files and folders with friends, family and colleagues for live collaboration. No email 
             attachments required.</p>
-        <a href=""> See how Fylo works</a> <img src={require('../../assets/images/icon-arrow.svg')} alt="" className="arrow"/>  
+        <Link to="#"> See how Fylo works</Link> <img src={require('../../assets/images/icon-arrow.svg')} alt="" className="arrow"/>  
     
     </div>
     </>
